@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> YoYo :-)
+          Neelesh Singh (React Project HOST Using of AWS Pipe Line + s3 Bucket +EC2)
         </p>
         <a
           className="App-link"
