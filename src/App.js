@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link">
-          <img url:"https://www.funimada.com/assets/images/cards/big/congrats-1.gif"/>
+          <img src="https://www.funimada.com/assets/images/cards/big/congrats-1.gif" alt="rohit"/>
         </a>
       </header>
     </div>
